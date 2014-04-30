@@ -1,4 +1,4 @@
 extropians
 ==========
 
-extropians list archive 1996-2003
+extropians list archive 1996.07-2003.09
